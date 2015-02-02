@@ -30,6 +30,6 @@ POS agent (port oriented socket agent)
 *  客户端：linux、windows、……
 *  公网测试环境：阿里云ecs
 
-  ![](https://github.com/jas0ns/posagent-scheme/new/master/images/ecs.png)
+  ![](https://github.com/jas0ns/posagent-scheme/blob/master/images/ecs.png)
 
 
